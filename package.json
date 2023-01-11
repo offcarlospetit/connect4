@@ -12,6 +12,7 @@
   "dependencies": {
     "react": "18.1.0",
     "react-native": "0.70.6",
+    "react-native-vector-icons": "^9.2.0",
     "react-redux": "^8.0.5",
     "redux-flipper": "^2.0.2",
     "redux-logger": "^3.0.6",
